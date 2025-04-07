@@ -19,7 +19,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <div class="header-container">
             <h1>Shop The Look</h1>
             <nav>
-                <a href="pages/login.php">Login</a>
+                <a href="pages/singup.php">Login</a>
                 <a href="pages/register.php">Register</a>
                 <a href="pages/cart.php" class="cart-link">
                     <img src="images/cart-icon.png" alt="Cart" class="cart-icon">
