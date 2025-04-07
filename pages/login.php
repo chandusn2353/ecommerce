@@ -90,7 +90,7 @@ if (isset($_POST['login'])) {
 </head>
 <body>
     <div class="login-container">
-        <h2>Login xxxxxx</h2>
+        <h2>Login</h2>
         <form method="POST">
             <label>Email:</label>
             <input type="email" name="email" required>
